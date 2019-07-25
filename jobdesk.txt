@@ -21,11 +21,10 @@
 <div>CodeIgniter and PHP Native.</div>
 
 <div><strong>Project	 : </strong>Cooperative Loan Application </div>
-<div><strong>Period  	 : </strong>Agustus 2017 – Januari 2018 </div>
+<div><strong>Period  	 : </strong>Agustus 2017 â€“ Januari 2018 </div>
 <div>strong>Responsibility	 :</strong></div>
 <ul>
 <li>Developing Cooperative Loan Application based with Php native and new Requirement from user.</li>
-<li>Creating mockup.</li>
 <li>Creating Web service.</li>
 <li>Debugging.</li>
 <li>Creating StoreProcedural.</li>
