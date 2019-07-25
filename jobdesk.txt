@@ -1,0 +1,36 @@
+<div>Alpine Cool Utama is a manufacturing company.<br><br>
+	<strong>Main Responsibilities :</strong></div>
+<ul>
+	<li>Worked as a fullstack engineer.</li>
+	<li>Developed a tracking system application (website) based on the user's requirements.<br><br></li>
+</ul>
+<div>
+	<strong>Tools:</strong>
+</div>
+<div>CodeIgniter and PHP Native.</div>
+==============================================================================================
+<div>Alpine Cool Utama is a manufacturing company.<br><br>
+	<strong>Main Responsibilities :</strong></div>
+<ul>
+	<li>Worked as a fullstack engineer.</li>
+	<li>Developed a tracking system application (website) based on the user's requirements.<br><br></li>
+</ul>
+<div>
+	<strong>Tools:</strong>
+</div>
+<div>CodeIgniter and PHP Native.</div>
+
+<div><strong>Project	 : </strong>Cooperative Loan Application </div>
+<div><strong>Period  	 : </strong>Agustus 2017 – Januari 2018 </div>
+<div>strong>Responsibility	 :</strong></div>
+<ul>
+<li>Developing Cooperative Loan Application based with Php native and new Requirement from user.</li>
+<li>Creating mockup.</li>
+<li>Creating Web service.</li>
+<li>Debugging.</li>
+<li>Creating StoreProcedural.</li>
+</ul>
+<div><strong>Tools	:</strong></div> 
+<div>Sublimetext,php native and DBMS MySQL.</div>
+<div><strong>Description	:</strong></div> 
+<div>Tujuan Dibuat Aplikasi ini adalah agar Memudahkan User Dalam Melakukan Input Data dan Pembayaran Secara Terprogram ,menu ini terdapat menu formulir pinjaman ,menu approval pinjaman dan menu Pembayaran.</div>
